@@ -1,2 +1,0 @@
-<?xml version="1.0"?>
-<oembed><code>rest_authorization_required</code><message>The WP REST API cannot be accessed by unauthorized users.</message><data><status>401</status></data></oembed>
